@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on POLITEKNIK HARAPAN BERSAMA
+- 🔭 I’m currently working on PT. Delta Solusi Nusantara
 - 🌱 I’m currently learning programming & technology
 - 👯 I’m looking to collaborate with other
 
