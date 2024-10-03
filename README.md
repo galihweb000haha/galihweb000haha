@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other
 
 - 📫 How to reach me: Telp: 08986676180
-- 😄 Moto: "Do is one, so if strrev(one.'g') become 'goD'"
+- 😄 Moto: "Do not tell your next move"
 - ⚡ Fun fact: I Hate Donald Trump
 
